@@ -1,0 +1,17 @@
+#social, #website, #title {
+    display:inline-block;
+    vertical-align: top;
+}
+
+#home {
+    float:right;
+}
+#features {
+    float:right;
+}
+#pricing {
+    float:right;
+}
+#disabled {
+    float:right;
+}
