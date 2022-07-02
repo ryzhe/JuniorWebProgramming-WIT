@@ -19,6 +19,10 @@ body {
     width: 100%;
 }
 
+.center {
+    text-align: center;
+  }
+
 a {
     text-decoration: none;
 }
@@ -174,6 +178,7 @@ footer {
     /* padding-top: 10px; */
     color: #fff;
     width: 100%;
+    padding-top: 10px;
 }
 
 .footer-content {
