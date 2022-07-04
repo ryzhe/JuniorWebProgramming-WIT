@@ -237,10 +237,6 @@ footer {
     transition: color .4s ease;
 }
 
-.socials a:hover i {
-    /* color: aqua; */
-}
-
 .footer-bottom {
     background: #06283D;
     /* width: 100vw; */
